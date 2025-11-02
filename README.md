@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Programming<br>
+🎓 MCA Student at **PB Siddhartha Arts and Science College, Vijayawada**  
+💻 Passionate about **Data Analytics, Web Development, and Quantum Computing**  
+🚀 Currently exploring **Git, GitHub Copilot, VS Code, HTML, and CSS**  <br>
 
 
 ## 🌐 Socials:
